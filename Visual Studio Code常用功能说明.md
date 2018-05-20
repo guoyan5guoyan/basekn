@@ -1,5 +1,5 @@
- <center>Visual Studio Code常用功能说明</center> 
- ===============================================
+#  <center>Visual Studio Code常用功能说明</center>  #
+ 
  
 # 快捷键说明 #
 ## 主命令框 ##
