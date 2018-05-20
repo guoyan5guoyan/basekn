@@ -88,9 +88,9 @@
 ## 安装插件 ##
 有两种方式：
 * F1 输入 extensions： || ext install。extensions：还可以显示已经安装过的插件。
-!(https://guoyan5guoyan.github.io/img/vs-code-%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%851.jpg)
+![方式1](https://github.com/guoyan5guoyan/img/raw/master/vs-code-%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%851)
 * ctrl + P 然后输入 >ext install
-!(img2.jpg)
+![方式2](https://github.com/guoyan5guoyan/img/raw/master/vs-code-%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%852)
 
 # Visual Studio Code(vscode) git的使用 #
 1. 创建一个github账号 
